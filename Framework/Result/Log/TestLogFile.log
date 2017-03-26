@@ -1,0 +1,23 @@
+25/03/2017 16:07:51 SeleniumLog Launch Application. URL https://www.makemytrip.com/
+25/03/2017 16:07:52 SeleniumLog Maximize the window
+25/03/2017 16:07:52 SeleniumLog Xpath //*[@id='mmt_header_navigation']//img[@class='mmt_header_logo'] is present
+25/03/2017 16:07:54 SeleniumLog Value Bhubaneshwar is entered to object From Location text box
+25/03/2017 16:07:54 SeleniumLog Xpath //ul[contains(@class,'hp-widget__sfrom')]//span[contains(text(),'BBI')]/parent::p is present
+25/03/2017 16:07:54 SeleniumLog Object From Location is clicked
+25/03/2017 16:07:55 SeleniumLog Value Kolkata is entered to object To Location text box
+25/03/2017 16:07:55 SeleniumLog Xpath //ul[contains(@class,'hp-widget__sTo')]//span[contains(text(),'CCU')]/parent::p is present
+25/03/2017 16:07:55 SeleniumLog Object To Location is clicked
+25/03/2017 16:07:55 SeleniumLog Xpath //*[@id='hp-widget__depart'] is present
+25/03/2017 16:07:56 SeleniumLog Object Depart Calender is clicked
+25/03/2017 16:08:03 SeleniumLog Object Passenger is clicked
+25/03/2017 16:08:03 SeleniumLog Xpath //*[@id='js-adult_counter'] is present
+25/03/2017 16:08:03 SeleniumLog Object Adult is clicked
+25/03/2017 16:08:03 SeleniumLog Xpath //*[@id='js-child_counter'] is present
+25/03/2017 16:08:04 SeleniumLog Object Child is clicked
+25/03/2017 16:08:06 SeleniumLog Object Class is clicked
+25/03/2017 16:08:06 SeleniumLog Xpath //*[@id='js-classFilters']/div[3]/label is present
+25/03/2017 16:08:07 SeleniumLog Object Business is clicked
+25/03/2017 16:08:18 SeleniumLog Object Search is clicked
+25/03/2017 16:08:19 SeleniumLog Object Departure is clicked
+25/03/2017 16:09:01 SeleniumLog Object Vistara is clicked
+25/03/2017 16:09:08 SeleniumLog Object Book is clicked

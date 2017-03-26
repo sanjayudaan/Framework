@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="99115" started-at="2017-03-25T10:37:31Z" finished-at="2017-03-25T10:39:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="99115" started-at="2017-03-25T10:37:31Z" finished-at="2017-03-25T10:39:10Z">
+      <class name="MakeMyTripAutomation.FlightBooking">
+        <test-method status="PASS" signature="config()[pri:0, instance:MakeMyTripAutomation.FlightBooking@5f66e3]" name="config" is-config="true" duration-ms="1561" started-at="2017-03-25T16:07:31Z" finished-at="2017-03-25T16:07:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config -->
+        <test-method status="PASS" signature="BookFlight_OneWay()[pri:0, instance:MakeMyTripAutomation.FlightBooking@5f66e3]" name="BookFlight_OneWay" duration-ms="95763" started-at="2017-03-25T16:07:32Z" finished-at="2017-03-25T16:09:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BookFlight_OneWay -->
+        <test-method status="PASS" signature="generateReports(org.testng.ITestResult)[pri:0, instance:MakeMyTripAutomation.FlightBooking@5f66e3]" name="generateReports" is-config="true" duration-ms="1227" started-at="2017-03-25T16:09:08Z" finished-at="2017-03-25T16:09:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=BookFlight_OneWay status=SUCCESS method=FlightBooking.BookFlight_OneWay()[pri:0, instance:MakeMyTripAutomation.FlightBooking@5f66e3] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateReports -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:MakeMyTripAutomation.FlightBooking@5f66e3]" name="tearDown" is-config="true" duration-ms="531" started-at="2017-03-25T16:09:09Z" finished-at="2017-03-25T16:09:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- MakeMyTripAutomation.FlightBooking -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
