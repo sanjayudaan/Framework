@@ -56,7 +56,7 @@ public class FlightBooking extends MakeMyTripAllFunctions {
 		// Select AirLine
 		String Airline = (String) dataSheet.getValue("SelectAirline");
 		SelectAirline(Airline);
-		
+		System.out.println("Change");
 		// Click on Price Button to select lowest cost flight
 		clickElement(xPathDesc.getValue("MMT_FlightPage","Price"),"Price");
 		test.log(LogStatus.PASS, "Button Clicked"+ "Price" );
